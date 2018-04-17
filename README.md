@@ -1,2 +1,0 @@
-# SearchReggaeArtists
-Created with CodeSandbox
